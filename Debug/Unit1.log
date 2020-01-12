@@ -1,0 +1,5 @@
+﻿  sixth.cpp
+e:\test\unit1\unit1\sixth.cpp(253): warning C4018: “<”: 有符号/无符号不匹配
+e:\test\unit1\unit1\sixth.cpp(262): warning C4018: “<”: 有符号/无符号不匹配
+e:\test\unit1\unit1\sixth.cpp(276): warning C4018: “<”: 有符号/无符号不匹配
+  Unit1.vcxproj -> E:\Test\Unit1\Debug\Unit1.exe
